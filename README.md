@@ -1,16 +1,64 @@
-### Hi there 👋
+#### "안녕하세요🙋‍♂️ 홍익대학교 컴퓨터공학과 4학년 재학중인 백엔드 개발자 전용수입니다."
 
-<!--
-**dionisos198/dionisos198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>🛠️ Tech Stack</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Techs that I've used at least once</h3>
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Jpa&logoColor=white"/></a>&nbsp 
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
+</p>
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</p>
+
+<br>
+
+
+[![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=dionisos1)](https://solved.ac/dionisos1/)
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dionisos1)](https://solved.ac/dionisos1/)
+
+<br>
+
+<a href="https://velog.io/@dionisos198"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dionisos198"/></a>
+
+<div align="left" style="text-align:center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=스프링&color=dark)](https://velog.io/@dionisos198)
+
+</div>
+
+<div align="left" style="text-align:center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=개발기록&color=dark)](https://velog.io/@dionisos198)
+  
+</div>
+
+<div align="left" style="text-align:center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=알고리&color=dark)](https://velog.io/@dionisos198)
+  
+</div>
+
+
+</br>
+
+### Work & Experiences 
+
+----
+
+- 🏫 2023.01 ~  Main Server Developer of App [선행의 모든 것](https://github.com/ysy7838/UMC4th_goodness) - 선행의 모든 것
+  
+- 📝 2023.04 ~ 2023.09 Member of [University MakeUs Challange](https://www.makeus.in/umc) 4th - 전국 대학 앱 런칭 연합동아리
+
+- 🔭 2023.09 ~ 2023.09 Member of [TAVE](https://blog.naver.com/t-ave) 12th - 국내 최초 4차 산업혁명 연합 동아리 TAVE
+
