@@ -1,4 +1,4 @@
-#### "안녕하세요🙋‍♂️ 홍익대학교 컴퓨터공학과 4학년 재학중인 백엔드 개발자 전용수입니다."
+#### "안녕하세요🙋‍♂️ 홍익대학교 컴퓨터공학과 3학년 재학 중인 백앤드 지망 이진우입니다."
 
 
 <h1>🛠️ Tech Stack</h1>
@@ -45,7 +45,7 @@
 
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=알고리&color=dark)](https://velog.io/@dionisos198)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=알고리즘&color=dark)](https://velog.io/@dionisos198)
   
 </div>
 
