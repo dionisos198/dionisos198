@@ -39,7 +39,7 @@
 
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=개발기록&color=dark)](https://velog.io/@dionisos198)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=개발기록&color=dark)](https://velog.io/@dionisos198?tag=%EA%B0%9C%EB%B0%9C%EA%B8%B0%EB%A1%9D)
   
 </div>
 
