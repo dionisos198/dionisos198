@@ -17,7 +17,8 @@
 </p>
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Redis-E6B91E?style=flat-square&logo=Redis&logoColor=black"/></a>&nbsp 
 </p>
 
 <br>
