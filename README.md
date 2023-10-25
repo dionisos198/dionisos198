@@ -33,19 +33,19 @@
 
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=스프링&color=dark)](https://velog.io/@dionisos198?tag=%EC%8A%A4%ED%94%84%EB%A7%81)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=스프링)](https://velog.io/@dionisos198?tag=%EC%8A%A4%ED%94%84%EB%A7%81)
 
 </div>
 
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=개발기록&color=dark)](https://velog.io/@dionisos198?tag=%EA%B0%9C%EB%B0%9C%EA%B8%B0%EB%A1%9D)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=개발기록)](https://velog.io/@dionisos198?tag=%EA%B0%9C%EB%B0%9C%EA%B8%B0%EB%A1%9D)
   
 </div>
 
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=알고리즘&color=dark)](https://velog.io/@dionisos198?tag=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=알고리즘)](https://velog.io/@dionisos198?tag=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
   
 </div>
 
