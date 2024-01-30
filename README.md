@@ -34,7 +34,7 @@
 
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dionisos198&tag=스프링)](https://velog.io/@dionisos198?tag=%EC%8A%A4%ED%94%84%EB%A7%81)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=백앤드 개발자 지망&tag=스프링)](https://velog.io/@dionisos198?tag=%EC%8A%A4%ED%94%84%EB%A7%81)
 
 </div>
 
