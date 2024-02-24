@@ -49,3 +49,5 @@
 
 - 🔭 2023.09 ~ 2023.09 Member of [TAVE](https://blog.naver.com/t-ave) 12th - 국내 최초 4차 산업혁명 연합 동아리 TAVE
 
+- 🏫 2023.10 ~ 2023.03 Main server Developer of Web [ottify](https://github.com/TAVE-balak) - ottify
+
