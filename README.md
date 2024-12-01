@@ -10,15 +10,18 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Jpa&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat-square&logo=QueryDSL&logoColor=white"/></a>&nbsp 
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/OpenSearch-232F3E?style=flat-square&logo=OpenSearch&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redis-E6B91E?style=flat-square&logo=Redis&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MongoDB-E6B91E?style=flat-square&logo=Mongo&logoColor=black"/></a>&nbsp 
 </p>
 
 <br>
