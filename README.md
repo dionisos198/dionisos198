@@ -1,4 +1,4 @@
-#### "안녕하세요🙋‍♂️ 홍익대학교 컴퓨터공학과 3학년 재학 중인 백앤드 지망 이진우입니다."
+#### "안녕하세요🙋‍♂️ 홍익대학교 컴퓨터공학과 4학년 재학 중인 백앤드 지망 이진우입니다."
 
 
 <h1>🛠️ Tech Stack</h1>
@@ -43,11 +43,17 @@
 
 ----
 
-- 🏫 2023.01 ~  Main Server Developer of App [선행의 모든 것](https://github.com/ysy7838/UMC4th_goodness) - 선행의 모든 것
+- 🏫 2023.06 ~  2023.09 Main Server Developer of App [선행의 모든 것](https://github.com/ysy7838/UMC4th_goodness) - 선행의 모든 것
   
 - 📝 2023.04 ~ 2023.09 Member of [University MakeUs Challange](https://www.makeus.in/umc) 4th - 전국 대학 앱 런칭 연합동아리
 
 - 🔭 2023.09 ~ 2023.09 Member of [TAVE](https://blog.naver.com/t-ave) 12th - 국내 최초 4차 산업혁명 연합 동아리 TAVE
 
-- 🏫 2023.10 ~ 2023.03 Main server Developer of Web [ottify](https://github.com/TAVE-balak) - ottify
+- 🏫 2023.10 ~ 2024.03 Main server Developer of Web [ottify](https://github.com/TAVE-balak) - ottify
+
+- 🗽 2024.03 ~ 2024.08 Member of [CEOS](https://ceos-sinchon.com/) 신촌 연합(연대,서강,홍익,이화) 창업 동아리
+
+- 🌍 2024.06 ~ 2024.09 Main Server Developer of Web [petplate](https://github.com/dionisos198/BackEnd)
+
+- 🎪 2024.03 ~ ... Main Server Developer of Web [Cre8](https://github.com/dionisos198/Cre8-BackEnd)
 
